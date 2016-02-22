@@ -1,0 +1,8 @@
+# Introduction #
+
+The goal of this project is a development a classic asteroids game using JavaFX and Python languages.
+
+
+# Details #
+
+Nothing to add for now.
